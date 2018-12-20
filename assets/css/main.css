@@ -2043,7 +2043,10 @@ input, select, textarea {
 			display: none;
 		}
 
+
 /* Image */
+
+	
 
 	.image {
 		border-radius: 0.375em;
@@ -2113,6 +2116,9 @@ input, select, textarea {
 			-webkit-transform: scale(1.075);
 			-ms-transform: scale(1.075);
 			transform: scale(1.075);
+		}
+		a.image:hover i {
+			
 		}
 
 /* List */
